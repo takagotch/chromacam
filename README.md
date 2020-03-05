@@ -13,7 +13,7 @@ https://www.chromacam.me/download/
 
 - Skype 
 - Hangouts
-- Goto Mee
+- Goto Meeting
 - BlueJeans
 - WebEx 
 - Zoom
