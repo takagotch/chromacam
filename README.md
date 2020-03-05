@@ -1,4 +1,4 @@
-### chromacam
+### chromacam / ChromaCam | Personify
 ---
 https://personifyinc.com/products/chromacam
 
